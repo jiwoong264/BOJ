@@ -4,6 +4,7 @@
 #include<vector>
 using namespace std;
 
+// B1에 수정사항
 int main(void)
 {
     int N, M, tmp;
